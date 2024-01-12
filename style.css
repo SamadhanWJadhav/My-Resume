@@ -2,11 +2,14 @@ h1,img{
     text-align: center;
 }
 h3{
-    color: darkorange;
+    color:darkblue;
 }
 img{
     text-align: right;
 }
 #main{
-    color: brown;
+    color:darkviolet;
+}
+*{
+    background-color:antiquewhite;
 }
